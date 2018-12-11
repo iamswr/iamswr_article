@@ -15,4 +15,4 @@
 
 #### 二、Node
 - <a href='./node_article/001.小邵教你玩转nodejs之nodejs概念、事件环机制（1）.md'>001.小邵教你玩转nodejs之nodejs概念、事件环机制（1）</a>
-- <a href='./node_article/002.小邵教你玩转nodejs之剖析:实现commonJs源码(2).md'>002.小邵教你玩转nodejs之剖析:实现commonJs源码(2)md</a>
+- <a href='./node_article/002.小邵教你玩转nodejs之剖析:实现commonJs源码(2).md'>002.小邵教你玩转nodejs之剖析:实现commonJs源码(2)</a>
